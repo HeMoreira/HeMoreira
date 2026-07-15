@@ -21,19 +21,27 @@ Python, Django, Flask, HTML5, CSS3, JavaScript e o que mais der na telha...
 ##
 
 <div style="display: inline-block;">
-  <img alt="linkedin-icon" src="./images/icons/linkedin-icon.svg" height="30" />
-  <img alt="github-icon" src="./images/icons/github-icon.svg" height="30">
-  <img alt="email-icon" src="./images/icons/email-icon.svg" height="30">
+  <a href="https://www.linkedin.com/in/henrique-ferreira-moreira-a4281b321/">
+    <img alt="linkedin-icon" src="./images/icons/linkedin-icon.svg" height="30" />
+  </a>
+  <span>ㅤ</span>
+  <a href="https://github.com/HeMoreira">
+    <img alt="github-icon" src="./images/icons/github-icon.svg" height="30">
+  </a>
+  <span>ㅤ</span>
+  <a href="mailto:henriquefmoreira2@gmail">
+    <img alt="email-icon" src="./images/icons/email-icon.svg" height="30">
+  </a>
 </div>
 
 ## No que venho trabalhando:
 
 <div align="center">
   <a href="https://github.com/HeMoreira/Brawl-Stars-Brawler-Picker">
-    <img width="500" alt="Brawler-Picker" src="https://github-stats-extended.vercel.app/api/pin?username=HeMoreira&repo=HeMoreira/Brawl-Stars-Brawler-Picker&description_lines_count=2&theme=transparent" />
+    <img width="400" alt="Brawler-Picker" src="https://github-stats-extended.vercel.app/api/pin?username=HeMoreira&repo=HeMoreira/Brawl-Stars-Brawler-Picker&description_lines_count=2&theme=transparent" />
   </a>
   <a href="https://github.com/HeMoreira/Estuda-Test">
-    <img width="500" alt="Estuda-Test Stats" src="https://github-stats-extended.vercel.app/api/pin?username=HeMoreira&repo=HeMoreira/Estuda-Test&description_lines_count=2&theme=transparent" />
+    <img width="400" alt="Estuda-Test Stats" src="https://github-stats-extended.vercel.app/api/pin?username=HeMoreira&repo=HeMoreira/Estuda-Test&description_lines_count=2&theme=transparent" />
   </a>
 </div>
 
